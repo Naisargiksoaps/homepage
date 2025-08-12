@@ -1,0 +1,71 @@
+<!-- wp:group {"metadata":{"name":"Page Title","patternCategory":"page-title","remotePatternId":17220},"align":"full","className":"alignfull is-style-default","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull is-style-default" id="page-title-section" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|40"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained","contentSize":"460px","justifyContent":"left"}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"fontSize":"xx-large"} -->
+<h2 class="wp-block-heading has-xx-large-font-size">Connect With Us</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Visit our eco-friendly workshop or reach out through our contact form — we're here to answer your questions and share our passion for handmade, natural soap.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"bottom"} -->
+<div class="wp-block-column is-vertically-aligned-bottom"><!-- wp:image {"lightbox":{"enabled":false},"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://noddystar7-muzcx.wordpress.com/wp-content/uploads/2025/08/handmade-soap-2.jpeg" alt="An illustration of watering a plant in a garden." style="aspect-ratio:1;object-fit:cover" /></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Contact","patternCategory":"contact","remotePatternId":13478},"align":"full","className":"alignfull is-style-section-2","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-section-2" id="contact-section" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"50%","style":{"spacing":{"blockGap":"var:preset|spacing|20"}}} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Contact</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%","style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph {"className":"is-contact-description"} -->
+<p class="is-contact-description">Contact us for inquiries or support related to our handmade, eco-friendly soaps.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/contact-form {"subject":"Contact form submission","className":"is-style-default"} -->
+<div class="wp-block-jetpack-contact-form is-style-default"><!-- wp:jetpack/field-name {"id":"","required":true,"width":50} -->
+<div><!-- wp:jetpack/label {"label":"First name","requiredText":"(required)"} /-->
+
+<!-- wp:jetpack/input {"style":{"border":{"radius":"5px","style":"solid"}}} /--></div>
+<!-- /wp:jetpack/field-name -->
+
+<!-- wp:jetpack/field-name {"id":"","required":true,"width":50} -->
+<div><!-- wp:jetpack/label {"label":"Last name","requiredText":"(required)"} /-->
+
+<!-- wp:jetpack/input {"style":{"border":{"radius":"5px","style":"solid"}}} /--></div>
+<!-- /wp:jetpack/field-name -->
+
+<!-- wp:jetpack/field-email {"id":"","required":true} -->
+<div><!-- wp:jetpack/label {"label":"Email","requiredText":"(required)"} /-->
+
+<!-- wp:jetpack/input {"style":{"border":{"radius":"5px","style":"solid"}}} /--></div>
+<!-- /wp:jetpack/field-email -->
+
+<!-- wp:jetpack/field-textarea {"id":""} -->
+<div><!-- wp:jetpack/label {"label":"Message","requiredText":"(required)"} /-->
+
+<!-- wp:jetpack/input {"type":"textarea","style":{"border":{"radius":"5px","style":"solid"}}} /--></div>
+<!-- /wp:jetpack/field-textarea -->
+
+<!-- wp:jetpack/button {"element":"button","text":"Submit","width":"","align":"left","lock":{"remove":true}} /--></div>
+<!-- /wp:jetpack/contact-form --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"metadata":{"name":"Fullwidth Map"},"align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|background"}}},"spacing":{"padding":{"top":"0","bottom":"0","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"backgroundColor":"foreground","textColor":"background","layout":{"type":"default"}} -->
+<div class="wp-block-group alignfull has-background-color has-foreground-background-color has-text-color has-background has-link-color" style="padding-top:0;padding-right:var(--wp--preset--spacing--40);padding-bottom:0;padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"dimensions":{"minHeight":600}}} -->
+<div class="wp-block-group" style="min-height:600px"><!-- wp:jetpack/map {"points":[{"placeTitle":"India","title":"Naisargik","caption":"","id":"place.0.27081390108596726","coordinates":{"latitude":22.199166,"longitude":78.476681}}],"zoom":15,"mapCenter":{"lat":22.199166,"lng":78.476681},"markerColor":"#151515","mapHeight":600,"className":"is-style-satellite"} -->
+<div class="wp-block-jetpack-map is-style-satellite" data-map-style="satellite" data-map-details="true" data-points="[{&quot;placeTitle&quot;:&quot;India&quot;,&quot;title&quot;:&quot;Naisargik&quot;,&quot;caption&quot;:&quot;&quot;,&quot;id&quot;:&quot;place.0.27081390108596726&quot;,&quot;coordinates&quot;:{&quot;latitude&quot;:22.199166,&quot;longitude&quot;:78.476681}}]" data-zoom="15" data-map-center="{&quot;lat&quot;:22.199166,&quot;lng&quot;:78.476681}" data-marker-color="#151515" data-map-height="600" data-show-fullscreen-button="true"><ul><li><a href="https://www.google.com/maps/search/?api=1&amp;query=22.199166,78.476681">Naisargik</a></li></ul></div>
+<!-- /wp:jetpack/map --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
